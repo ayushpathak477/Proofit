@@ -1,0 +1,11 @@
+Ticker,Sector,Has_Income_Stmt,Has_Balance_Sheet,Years_of_Data,Has_Total_Debt,Has_Operating_Revenue
+RELIANCE.NS,Energy,True,True,5,True,True
+TCS.NS,Technology,True,True,4,True,True
+HDFCBANK.NS,Financial Services,True,True,5,True,True
+BAJFINANCE.NS,Financial Services,True,True,4,True,True
+TATAMOTORS.NS,Missing,False,False,0,False,False
+SUNPHARMA.NS,Healthcare,True,True,4,True,True
+ITC.NS,Consumer Defensive,True,True,5,True,True
+LT.NS,Industrials,True,True,5,True,True
+INFY.NS,Technology,True,True,5,True,True
+SBIN.NS,Financial Services,True,True,4,True,True
